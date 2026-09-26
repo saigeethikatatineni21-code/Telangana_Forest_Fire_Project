@@ -1,0 +1,13 @@
+Metric,Value
+Raw Records,369419.0
+Clean Records,185239.0
+Records Removed,184180.0
+Retention Percentage,50.14
+Raw Duplicate Records,0.0
+Clean Duplicate Records,0.0
+Raw Invalid Coordinates,0.0
+Clean Invalid Coordinates,0.0
+Raw Invalid Dates,0.0
+Clean Invalid Dates,0.0
+Raw Completeness (%),100.0
+Clean Completeness (%),100.0
